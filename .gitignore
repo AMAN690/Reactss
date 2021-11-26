@@ -1,0 +1,15 @@
+.idea
+.vscode
+logs
+*.log
+*.log.*
+node_modules/
+doc/
+_book/
+coverage/
+lib/
+lib-es/
+dist/
+examples/build
+*.tsbuildinfo
+.DS_store
